@@ -1,2 +1,5 @@
 # bookbot
-repository for bootdev
+Repository for bootdev projects
+
+I love :coffee:
+
